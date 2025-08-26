@@ -318,6 +318,7 @@ body.sleep {
   }
   .moon {
     width: 200px;
+     left: 70%;
   }
 
   .stars {
@@ -338,3 +339,4 @@ body.sleep {
     width: 300px;
   }
 }
+
